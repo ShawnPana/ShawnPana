@@ -1,5 +1,6 @@
 [portfolio](https://www.shawnpana.com/) <br>
 [browser use box demo](https://www.tiktok.com/@browser_use/video/7639824093721758989) <br>
+<a href="https://www.tiktok.com/@browser_use/video/7639824093721758989"><img src="https://raw.githubusercontent.com/browser-use/bux/main/docs/tiktok-demo-thumbnail.jpg" alt="Browser Use Box TikTok demo" width="360"></a> <br>
 [linkedin](www.linkedin.com/in/shawnpana) <br>
 [devpost](https://devpost.com/ShawnPana) <br>
 [X](https://x.com/shawn_pana)
