@@ -4,5 +4,4 @@
 [X](https://x.com/shawn_pana)
 
 > **i'm shawn** <br>
-i build open-source tools
-prev. browser-use
+i'm 21 years old. i build open-source tools. i worked at [browser-use](https://github.com/browser-use/browser-use).
