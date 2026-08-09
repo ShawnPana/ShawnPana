@@ -4,4 +4,6 @@
 [X](https://x.com/shawn_pana)
 
 > **i'm shawn** <br>
-i make tools
+i build open-source tools
+
+prev. browser-use
