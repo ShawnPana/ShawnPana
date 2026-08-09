@@ -4,4 +4,4 @@
 [X](https://x.com/shawn_pana)
 
 > **i'm shawn** <br>
-> i do growth at browser use and i make apps fast
+i make tools
