@@ -7,4 +7,4 @@
 i'm 21 years old. <br>
 i build open-source tools. <br>
 i worked at [browser-use](https://github.com/browser-use/browser-use). <br>
-founder of [phone-harness](https://github.com/ShawnPana/browser-use)
+founder of [phone-harness](https://github.com/phone-harness/phone-harness)
